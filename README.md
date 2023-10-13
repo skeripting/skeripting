@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skeripting. I go by script_ing. I don't really use this platform often, but you can find my portfolio as a repo in here.
+- 👋 Hi, I’m @skeripting. I go by script_ing. I don't really use this platform often, but you can find my portfolio here: https://github.com/skeripting/skeripting/blob/main/portfolio.md
 - 👀 I’ve been coding in Roblox Lua since I was a kid in 2017. I’ve coded in React JS and PHP for 2 years as well.
 - 🎮 Now, I make free youtube tutorials, teaching people how to script. Watch them here: https://www.youtube.com/channel/UCFHJ80WbXDJ7ujsMKa1LHtw
 - 📖 I've also published a book on how to script in Roblox for beginners. Check it out: https://www.amazon.com/dp/B0CFD9D3BW
