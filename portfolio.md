@@ -104,5 +104,7 @@ Features:
 - Flight
 - Ki-Blasts
 
+--
 I am comfortable learning new styles of programming as per my clients' needs and extending outside of roblox to fulfill their goals
-I usually make my own frameworks and rely on object-oriented programming, but can work with anything you need
+I usually make my own frameworks and rely on object-oriented programming, but can work with anything you need.
+Looking forward to working with you!
