@@ -1,11 +1,11 @@
 ## Meet Kushal
 Hi, I’m @skeripting. My online handle is script_ing. Please find my portfolio here: https://kushaltimsina.com/experience
 
-I began coding in Roblox Lua since I was a 12 year old kid in 2016. 
+I began coding in Roblox Lua since I was a 12 year old kid in 2016. I've been scripting Roblox games for 9 years.
 
 My most recent game is BattleMania, with 1.2 million + visits: https://www.roblox.com/games/14945130763/BattleMania
 
-I’ve coded in React JS and PHP for 2 years as well. I built https://quizzynow.com to help 300+ registered students to improve their test scores.
+I’ve coded in React JS and PHP for 2 years as well. I built https://quizzynow.com to help 500+ registered students to improve their test scores.
 
 Now, I make free youtube tutorials, teaching people how to script. Watch them here: https://www.youtube.com/channel/UCFHJ80WbXDJ7ujsMKa1LHtw
 
