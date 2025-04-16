@@ -3,15 +3,15 @@ Hi, I’m @skeripting. My online handle is script_ing. Please find my portfolio 
 
 I began coding in Roblox Lua since I was a 12 year old kid in 2016. I've been scripting Roblox games for 9 years.
 
-My most recent game is BattleMania, with 1.2 million + visits: https://www.roblox.com/games/14945130763/BattleMania
+My most recent game is BattleMania, with 1.6 million + visits: https://www.roblox.com/games/14945130763/BattleMania
 
-I’ve coded in React JS and PHP for 2+ years as well. I built https://quizzynow.com to help 500+ registered students to improve their test scores.
+I’ve coded in React JS and PHP for 2+ years as well. I built https://quizzynow.com to help 800+ registered students to improve their test scores.
 
 Now, I make free youtube tutorials, teaching people how to script, to over 1 million+ views. Watch them here: https://www.youtube.com/channel/UCFHJ80WbXDJ7ujsMKa1LHtw
 
 I also write free computer science and Roblox development tutorials on my blog, https://kushaltimsina.com/blog
 
-I've also published a book on how to script in Roblox for beginners. Check it out: https://www.amazon.com/dp/B0CFD9D3BW
+I've also published a book on how to script in Roblox for beginners. Check it out: https://kushaltimsina.com/book
 
 I am constantly learning and improving my skills as a programmer/scripter. 
 
